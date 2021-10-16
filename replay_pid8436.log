@@ -1,0 +1,44 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 139 ciObject found
+ciInstanceKlass java/util/Iterator 1 1 53 100 1 8 1 10 12 1 1 10 7 12 1 1 1 11 7 12 1 1 1 11 12 1 1 11 7 12 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+instanceKlass java/lang/Throwable$PrintStreamOrWriter
+instanceKlass org/apache/maven/plugin/surefire/booterclient/output/InPluginProcessDumpSingleton
+instanceKlass org/apache/maven/plugin/surefire/booterclient/output/ForkClient$OperationalData
+instanceKlass org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/CommandLineUtils$1
+instanceKlass org/apache/maven/plugin/surefire/booterclient/lazytestprovider/OutputStreamFlushableCommandline$OutputStreamFlushReceiver
+instanceKlass java/lang/ProcessImpl$2
+instanceKlass java/lang/ProcessImpl$$Lambda$259
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/Process
+instanceKlass java/lang/ProcessBuilder
+instanceKlass org/apache/maven/plugin/surefire/booterclient/output/NativeStdErrStreamConsumer
+instanceKlass java/util/DualPivotQuicksort
+instanceKlass org/apache/maven/plugin/surefire/booterclient/ForkStarter$CloseableCloser
+instanceKlass org/apache/maven/plugin/surefire/booterclient/output/ThreadedStreamConsumer$Pumper
+instanceKlass org/apache/maven/plugin/surefire/booterclient/output/ThreadedStreamConsumer
+instanceKlass java/util/Vector$Itr
+instanceKlass java/util/zip/ZipOutputStream$XEntry
+instanceKlass java/time/Instant
+instanceKlass java/util/zip/Deflater$DeflaterZStreamRef
+instanceKlass java/util/zip/Deflater
+instanceKlass org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/CommandLineCallable
+instanceKlass org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/CommandLineUtils
+instanceKlass org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/Commandline$Argument
+instanceKlass org/apache/maven/surefire/shade/org/apache/maven/shared/utils/Os
+instanceKlass org/apache/maven/plugin/surefire/booterclient/lazytestprovider/FlushReceiver
+instanceKlass org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/Arg
+instanceKlass org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/shell/Shell
+instanceKlass sun/util/resources/provider/NonBaseLocaleDataMetaInfo
+instanceKlass sun/util/locale/provider/JRELocaleProviderAdapter$$Lambda$258
+instanceKlass sun/util/locale/provider/BaseLocaleDataMetaInfo
+instanceKlass sun/util/locale/provider/JRELocaleProviderAdapter$$Lambda$257
+instanceKlass sun/util/cldr/CLDRLocaleProviderAdapter$$Lambda$256
+instanceKlass sun/util/locale/provider/TimeZoneNameUtility$TimeZoneNameGetter
+instanceKlass sun/util/locale/provider/TimeZoneNameUtility
+instanceKlass sun/nio/cs/Surrogate
+instanceKlass sun/nio/cs/Surrogate$Parser
+instanceKlass java/io/DeleteOnExitHook$1
+instanceKlass java/io/DeleteOnExitHook
+instanceKlass java/io/File$TempDirectory
